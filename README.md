@@ -1,4 +1,4 @@
-# aws-machine-learning
+# aws-certifed-machine-learning-specialty-exam-notes
 
 ## 1 Data Collection
 - Introduction
